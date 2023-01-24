@@ -1,11 +1,11 @@
 {
-    "name": "rafael/digital-cep",
+    "name": "rafrodrigo/digital-cep",
     "description": "Consultando CEP",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Rafael\\DigitalCep\\": "src/"
+            "RafRodrigo\\DigitalCep\\": "src/"
         },
         "psr-0":{
             "Search":"src/"

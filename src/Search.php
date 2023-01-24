@@ -1,6 +1,6 @@
 <?php
 
-namespace Rafael\DigitalCep;
+namespace RafRodrigo\DigitalCep;
 
 class Search{
 

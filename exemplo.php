@@ -1,6 +1,6 @@
 <?php
 
-use \Rafael\DigitalCep\Search;
+use \RafRodrigo\DigitalCep\Search;
 
 require 'vendor/autoload.php';
 
