@@ -6,6 +6,9 @@
     "autoload": {
         "psr-4": {
             "Rafael\\DigitalCep\\": "src/"
+        },
+        "psr-0":{
+            "Search":"src/"
         }
     },
     "authors": [

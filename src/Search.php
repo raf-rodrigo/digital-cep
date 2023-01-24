@@ -8,7 +8,7 @@ class Search{
 
     public function buscarCep($zipCode){
 
-        $zipCode = preg_replace('/[^0-0]/in','',$zipCode);
+        $zipCode = preg_replace('/[^0-9]/','',$zipCode);
 
         $get = file_get_contents($this->url.$zipCode."/json");
         
