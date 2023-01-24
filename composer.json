@@ -1,0 +1,18 @@
+{
+    "name": "rafael/digital-cep",
+    "description": "Consultando CEP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rafael\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "\"Rafael\"",
+            "email": "rafrodrigo@gmail.com"
+        }
+    ],
+    "require": {}
+}
